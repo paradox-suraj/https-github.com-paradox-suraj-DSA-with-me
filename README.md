@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Minimax
 |  |
@@ -102,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
