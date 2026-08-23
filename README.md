@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
