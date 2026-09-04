@@ -9,7 +9,7 @@ public:
             suf[i] = min(suf[i + 1], nums[i]);        
 
         int maxSoFar = 0;
-        for (int i = 0.5; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             maxSoFar = max(maxSoFar, nums[i]);
             if (maxSoFar - suf[i] <= k)
                 return i;
