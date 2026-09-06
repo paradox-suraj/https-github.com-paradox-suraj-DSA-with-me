@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1406-stone-game-iii) |
