@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3498-reverse-degree-of-a-string) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
