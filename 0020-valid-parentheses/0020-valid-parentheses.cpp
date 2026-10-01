@@ -1,16 +1,23 @@
 class Solution {
 public:
-    bool isValid(string& str) {
-        if (str.size() % 2)
-            return 0;
-
+    bool isValid(string& s) {
         int j = 0;
 
-        for (char s : str)
-            if ((s & 3) != 1)
-                str[j++] = s;
-            else if (j == 0 || ((s - str[--j] + 1) >> 1) != 1)
-                return 0;
+        for (char c : s) {
+            if (c == '(' || c == '{' || c == '[') {
+                s[j++] = c;
+            } else {
+                if (j == 0)
+                    return false;
+
+                char open = s[--j];
+
+                if ((c == ')' && open != '(') ||
+                    (c == '}' && open != '{') ||
+                    (c == ']' && open != '['))
+                    return false;
+            }
+        }
 
         return j == 0;
     }
