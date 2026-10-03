@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
