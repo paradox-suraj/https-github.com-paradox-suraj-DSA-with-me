@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0075-sort-colors) |
 | [0877-stone-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
+| [1219-path-with-maximum-gold](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1219-path-with-maximum-gold) |
 | [1406-stone-game-iii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1563-stone-game-v) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1219-path-with-maximum-gold](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1219-path-with-maximum-gold) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1096-brace-expansion-ii) |
+| [1219-path-with-maximum-gold](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1219-path-with-maximum-gold) |
 ## Stack
 |  |
 | ------- |
