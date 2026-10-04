@@ -1,34 +1,34 @@
 class Solution {
 public:
-    bool checkValidString(string s) {
-        stack<int> openIndices;
-        stack<int> starIndices;
+    bool checkValidString(std::string s) {
+        int min_open = 0; // Minimum possible open brackets needed
+        int max_open = 0; // Maximum possible open brackets possible
 
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == '(') {
-                openIndices.push(i);
-            } else if (s[i] == '*') {
-                starIndices.push(i);
-            } else { // ')'
-                if (!openIndices.empty()) {
-                    openIndices.pop();
-                } else if (!starIndices.empty()) {
-                    starIndices.pop();
-                } else {
-                    return false;
-                }
+        for (char c : s) {
+            if (c == '(') {
+                min_open++;
+                max_open++;
+            } else if (c == ')') {
+                min_open--;
+                max_open--;
+            } else { // c == '*'
+                min_open--; // Treat as ')'
+                max_open++; // Treat as '('
+            }
+
+            // If maximum possible open brackets drops below 0,
+            // we have seen too many ')' that cannot be matched by any '(' or '*'
+            if (max_open < 0) {
+                return false;
+            }
+
+            // min_open cannot drop below 0; extra '*' can just be empty strings ""
+            if (min_open < 0) {
+                min_open = 0;
             }
         }
 
-        // Match remaining '(' with '*' that appear AFTER them
-        while (!openIndices.empty() && !starIndices.empty()) {
-            if (openIndices.top() > starIndices.top()) {
-                return false; // '*' is before '(', cannot act as ')'
-            }
-            openIndices.pop();
-            starIndices.pop();
-        }
-
-        return openIndices.empty();
+        // Valid if 0 falls within the range [min_open, max_open]
+        return min_open == 0;
     }
 };
