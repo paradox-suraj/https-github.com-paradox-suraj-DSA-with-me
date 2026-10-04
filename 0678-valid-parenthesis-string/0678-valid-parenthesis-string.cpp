@@ -1,28 +1,34 @@
 class Solution {
 public:
-    int memo[105][105]; // -1: unvisited, 0: false, 1: true
+    bool checkValidString(string s) {
+        stack<int> openIndices;
+        stack<int> starIndices;
 
-    bool solve(const string& s, int i, int count) {
-        if (count < 0) return false;
-        if (i == s.length()) return count == 0;
-        if (memo[i][count] != -1) return memo[i][count];
-
-        bool ans = false;
-        if (s[i] == '(') {
-            ans = solve(s, i + 1, count + 1);
-        } else if (s[i] == ')') {
-            ans = solve(s, i + 1, count - 1);
-        } else {
-            ans = solve(s, i + 1, count + 1) ||
-                  solve(s, i + 1, count - 1) ||
-                  solve(s, i + 1, count);
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] == '(') {
+                openIndices.push(i);
+            } else if (s[i] == '*') {
+                starIndices.push(i);
+            } else { // ')'
+                if (!openIndices.empty()) {
+                    openIndices.pop();
+                } else if (!starIndices.empty()) {
+                    starIndices.pop();
+                } else {
+                    return false;
+                }
+            }
         }
 
-        return memo[i][count] = ans;
-    }
+        // Match remaining '(' with '*' that appear AFTER them
+        while (!openIndices.empty() && !starIndices.empty()) {
+            if (openIndices.top() > starIndices.top()) {
+                return false; // '*' is before '(', cannot act as ')'
+            }
+            openIndices.pop();
+            starIndices.pop();
+        }
 
-    bool checkValidString(string s) {
-        memset(memo, -1, sizeof(memo));
-        return solve(s, 0, 0);
+        return openIndices.empty();
     }
 };
