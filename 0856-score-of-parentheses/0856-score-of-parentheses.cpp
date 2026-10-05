@@ -1,28 +1,25 @@
 class Solution {
-private:
-    int score(const string& s, int l, int r) {
-        int balance = 0;
-        
-        // Find if the string splits into two balanced sub-expressions: A + B
-        for (int i = l; i < r; ++i) {
-            balance += (s[i] == '(' ? 1 : -1);
-            if (balance == 0) {
-                // Split point found: s[l...i] + s[i+1...r]
-                return score(s, l, i) + score(s, i + 1, r);
-            }
-        }
-        
-        // If balance reached 0 only at r, s[l...r] is enclosed by s[l] and s[r]
-        if (r - l == 1) {
-            return 1; // Base case: "()"
-        }
-        
-        // Enclosed case: (A) -> 2 * score(A)
-        return 2 * score(s, l + 1, r - 1);
-    }
-
 public:
     int scoreOfParentheses(string s) {
-        return score(s, 0, s.length() - 1);
+        stack<int> st;
+        st.push(0); // Score accumulator for the global scope
+
+        for (char c : s) {
+            if (c == '(') {
+                st.push(0); // Start a new nested scope
+            } else {
+                int innerScore = st.top();
+                st.pop();
+
+                // If innerScore is 0, we matched "()", worth 1.
+                // Otherwise, we matched "(A)", worth 2 * innerScore.
+                int currentScore = (innerScore == 0) ? 1 : 2 * innerScore;
+
+                // Add to the enclosing scope
+                st.top() += currentScore;
+            }
+        }
+
+        return st.top();
     }
 };
