@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0856-score-of-parentheses) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0075-sort-colors) |
 | [0877-stone-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0049-group-anagrams) |
 | [1096-brace-expansion-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
