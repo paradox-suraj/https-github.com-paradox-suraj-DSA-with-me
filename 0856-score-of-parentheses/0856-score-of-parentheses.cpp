@@ -1,25 +1,21 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-        stack<int> st;
-        st.push(0); // Score accumulator for the global scope
+        int totalScore = 0;
+        int depth = 0;
 
-        for (char c : s) {
-            if (c == '(') {
-                st.push(0); // Start a new nested scope
+        for (int i = 0; i < s.length(); ++i) {
+            if (s[i] == '(') {
+                depth++;
             } else {
-                int innerScore = st.top();
-                st.pop();
-
-                // If innerScore is 0, we matched "()", worth 1.
-                // Otherwise, we matched "(A)", worth 2 * innerScore.
-                int currentScore = (innerScore == 0) ? 1 : 2 * innerScore;
-
-                // Add to the enclosing scope
-                st.top() += currentScore;
+                depth--;
+                // Check if this ')' forms a leaf core "()"
+                if (s[i - 1] == '(') {
+                    totalScore += (1 << depth);
+                }
             }
         }
 
-        return st.top();
+        return totalScore;
     }
 };
