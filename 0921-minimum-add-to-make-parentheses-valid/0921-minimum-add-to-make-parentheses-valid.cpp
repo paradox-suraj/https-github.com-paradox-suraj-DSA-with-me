@@ -1,13 +1,16 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        while (true) {
-            size_t pos = s.find("()");
-            if (pos == string::npos) {
-                break;
+        stack<char> st;
+
+        for (char c : s) {
+            if (c == ')' && !st.empty() && st.top() == '(') {
+                st.pop();
+            } else {
+                st.push(c);
             }
-            s.erase(pos, 2);
         }
-        return s.length();
+
+        return st.size();
     }
 };
