@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3524-find-x-value-of-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3731-find-missing-elements) |
