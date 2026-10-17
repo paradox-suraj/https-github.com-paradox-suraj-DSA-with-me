@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3731-find-missing-elements) |
 ## Quicksort
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
