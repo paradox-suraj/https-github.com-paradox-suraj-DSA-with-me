@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2409-count-days-spent-together](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3524-find-x-value-of-array-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3498-reverse-degree-of-a-string) |
