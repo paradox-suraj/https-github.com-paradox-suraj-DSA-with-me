@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0128-longest-consecutive-sequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1219-path-with-maximum-gold) |
