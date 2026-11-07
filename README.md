@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Indexed Tree
 |  |
