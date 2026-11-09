@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1267-count-servers-that-communicate) |
 | [1406-stone-game-iii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1563-stone-game-v) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
@@ -312,12 +315,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -414,5 +419,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/paradox-suraj/https-github.com-paradox-suraj-DSA-with-me/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
